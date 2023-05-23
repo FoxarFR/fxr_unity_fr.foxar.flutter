@@ -1,0 +1,11 @@
+{
+    "name": "Foxar.Flutter.Editor",
+    "rootNamespace": "Foxar.Flutter.Editor",
+    "references": [
+        "Foxar.Flutter",
+        "UniTask.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}

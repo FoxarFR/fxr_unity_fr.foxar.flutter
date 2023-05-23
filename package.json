@@ -1,0 +1,14 @@
+{
+  "name": "fr.foxar.flutter",
+  "version": "1.0.0",
+  "displayName": "Foxar Flutter",
+  "description": "",
+  "dependencies": {
+    "fr.foxar.core": "1.0.0"
+  },
+  "author": {
+    "name": "Foxar",
+    "email": "contact@foxar.fr",
+    "url": "https://foxar.fr"
+  }
+}

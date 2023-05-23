@@ -1,0 +1,8 @@
+{
+    "name": "Foxar.Flutter",
+    "rootNamespace": "Foxar.Flutter",
+    "references": [
+        "Foxar.Core",
+        "UniTask"
+    ]
+}
